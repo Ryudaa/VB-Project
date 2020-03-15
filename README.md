@@ -1,7 +1,7 @@
 # VB-Project
 
 Repository ini dibuat untuk mengamankan program yang sudah dibuat Rizma dengan susah payah.
-Menggunakan Visual Studio .NET (terutama community 2017)
+Menggunakan Visual Studio .NET (terutama community 2017).
 
 ## Contents
 - [Affine Chiper](#affine-chiper)
